@@ -6,7 +6,7 @@
 # This implementation references logic from the `clipboard` gem.
 #
 # MIT License
-# Copyright (c) 2010-2023 Jan Lelis <janlelis@gmail.com> (for the original `clipboard` gem logic)
+# Copyright (c) 2010-2024 Jan Lelis (for the original `clipboard` gem logic)
 # Copyright (c) 2026 ongaeshi (for this single-file adaptation)
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
