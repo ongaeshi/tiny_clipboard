@@ -1,6 +1,5 @@
-# frozen_string_literal: true
-
 # tiny_clipboard.rb
+#
 # A single-file, zero-dependency clipboard library for Ruby.
 # Perfect for vendoring, mimicking a C++ header-only library.
 #
